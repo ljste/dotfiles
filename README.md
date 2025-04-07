@@ -1,8 +1,16 @@
+> ⚙️ Maintained by [ljste](https://github.com/ljste) – forked and extended for my own workflow.
+
 # .files
 
 These are my dotfiles. Take anything you want, but at your own risk.
 
 It mainly targets macOS systems (should install on e.g. Ubuntu as well for many tools, config and aliases etc).
+
+## ljste’s Notes
+
+- I use this mainly for MacBook Pro (Apple Silicon).
+- Planning to add some devops scripts here later.
+- May tweak the prompt or add some AI tools.
 
 ## Highlights
 
